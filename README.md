@@ -27,8 +27,6 @@ Contains:
 Records: 45,000+ customers  
 Target Variable: `y` (Subscribed: Yes/No)
 
----
-
 ## Tools & Technologies
 - Python
 - Pandas
@@ -36,10 +34,6 @@ Target Variable: `y` (Subscribed: Yes/No)
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
-
----
-
-## Analysis Workflow
 
 ### Data Preparation
 - Removed duplicates
